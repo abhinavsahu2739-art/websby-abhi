@@ -1,0 +1,153 @@
+[
+ {
+  "slug": "website-development",
+  "name": "Business Website Development",
+  "title": "Website Development for Small Business | WebsBy Abhi",
+  "desc": "Custom business website development for small businesses: responsive, mobile-friendly sites that build trust and bring in enquiries.",
+  "h1": "Business websites that make you look credible and bring in enquiries",
+  "what": "A business website is your online front door: what you offer, why you can be trusted, and how to get in touch, in one clear place.",
+  "who": "Local shops, service providers, clinics, coaching and consulting businesses, and brands that currently rely only on Instagram or WhatsApp.",
+  "problem": "Customers search or hear about you, then judge you in seconds. No website, or a hard-to-read one, means lost trust and lost enquiries.",
+  "includes": [
+   "Custom design that matches your brand",
+   "Mobile-first, responsive layout",
+   "Clear service pages and calls to action",
+   "Contact form plus email or WhatsApp links",
+   "Basic on-page SEO: titles, descriptions, sitemap",
+   "Deployment and handover"
+  ],
+  "benefit": "Visitors understand what you do quickly, trust you more, and know exactly how to contact you.",
+  "related": [
+   "ecommerce-development",
+   "website-redesign"
+  ],
+  "cta": "Start Your Website",
+  "formOption": "Business website",
+  "faqs": [
+   [
+    "How long does a business website take?",
+    "It depends on the number of pages and how quickly content is ready. You get a clear timeline before any work begins."
+   ],
+   [
+    "Will the website work on mobile?",
+    "Yes. Every website is built mobile-first and checked across screen sizes."
+   ],
+   [
+    "Can I request changes after launch?",
+    "Yes. Tell me what you need changed and we will agree the details."
+   ]
+  ]
+ },
+ {
+  "slug": "ecommerce-development",
+  "name": "E-commerce Website Development",
+  "title": "Ecommerce Website Development | WebsBy Abhi",
+  "desc": "Ecommerce website development for small businesses and growing online stores: clear product pages, mobile-friendly and easy to order from.",
+  "h1": "E-commerce websites that make buying simple",
+  "what": "An online store that shows your products clearly and makes it easy for customers to order.",
+  "who": "Clothing brands, product businesses, startups and growing online stores that want their own storefront instead of relying only on marketplace or Instagram listings.",
+  "problem": "Selling only through DMs or marketplaces is slow to manage and gives you little control over how your brand looks.",
+  "includes": [
+   "Product and category pages",
+   "Mobile-friendly browsing and ordering flow",
+   "Clean layout focused on the product",
+   "Enquiry or checkout setup based on your needs",
+   "Basic on-page SEO",
+   "Deployment and handover"
+  ],
+  "benefit": "A storefront you control, where customers can browse and order without back-and-forth messages.",
+  "related": [
+   "website-development"
+  ],
+  "cta": "Discuss Your Store",
+  "formOption": "E-commerce website",
+  "faqs": [
+   [
+    "Do you build ecommerce websites for small businesses?",
+    "Yes. I build online stores for brands that want their own storefront."
+   ],
+   [
+    "What do you need from me to start?",
+    "Your product details, images, and an idea of how customers should order. We agree the setup based on your needs."
+   ],
+   [
+    "Will the store work on phones?",
+    "Yes. Stores are built mobile-first and checked across screen sizes."
+   ]
+  ]
+ },
+ {
+  "slug": "landing-pages",
+  "name": "Landing Page Development",
+  "title": "Landing Page Design & Development | WebsBy Abhi",
+  "desc": "Landing page design and development built around one goal: enquiries, bookings or sign-ups. Fast, mobile-friendly and focused.",
+  "h1": "Landing pages built around one clear goal",
+  "what": "A single focused page that explains one offer and asks visitors to take one action.",
+  "who": "Businesses running an offer, launching a service, or sending Instagram or ad traffic somewhere that should convert.",
+  "problem": "Sending people to a busy homepage or a profile link means many leave without acting.",
+  "includes": [
+   "One clear message and one clear call to action",
+   "Mobile-first, fast-loading layout",
+   "Enquiry form or direct contact buttons",
+   "Basic on-page SEO",
+   "Deployment and handover"
+  ],
+  "benefit": "Less confusion for visitors and a clearer path from interest to enquiry.",
+  "related": [
+   "website-development"
+  ],
+  "cta": "Plan My Landing Page",
+  "formOption": "Landing page",
+  "faqs": [
+   [
+    "What is a landing page for?",
+    "To present one offer and ask visitors for one action, such as sending an enquiry."
+   ],
+   [
+    "Do I need a full website as well?",
+    "Not necessarily. A landing page works on its own for one offer or campaign and can grow into a full website later."
+   ],
+   [
+    "How long does a landing page take?",
+    "It is usually quicker than a full website because it is a single page. You get a timeline before work begins."
+   ]
+  ]
+ },
+ {
+  "slug": "website-redesign",
+  "name": "Website Redesign",
+  "title": "Website Redesign Services for Businesses | WebsBy Abhi",
+  "desc": "Website redesign services for businesses with outdated sites: clearer messaging, mobile-friendly design, faster pages and a better enquiry flow.",
+  "h1": "Website redesign for outdated or underperforming sites",
+  "what": "A rebuild of your existing website with clearer structure, modern design and a better path to enquiry.",
+  "who": "Businesses whose site looks dated, is hard to use on mobile, loads slowly, or does not bring in enquiries.",
+  "problem": "An old website can make a good business look unreliable and send visitors away.",
+  "includes": [
+   "Review of your current site",
+   "Updated structure and messaging",
+   "Modern responsive design",
+   "Speed and basic SEO improvements",
+   "Safe launch that keeps your important pages"
+  ],
+  "benefit": "A site that looks current, works on phones, and gives visitors a clear next step.",
+  "related": [
+   "website-development"
+  ],
+  "cta": "Improve My Website",
+  "formOption": "Website redesign",
+  "faqs": [
+   [
+    "Will I lose my existing content?",
+    "No. I review what you have and keep what works."
+   ],
+   [
+    "Will a redesign affect my Google visibility?",
+    "It can if URLs or content change carelessly, so I keep your important pages and URLs in mind. No ranking is guaranteed."
+   ],
+   [
+    "Can you redesign only part of my site?",
+    "Yes. Tell me what is not working and we can scope a smaller update."
+   ]
+  ]
+ }
+]
